@@ -1,7 +1,6 @@
 <h2 align="center"> Hi 👋 , I'm Franco Cuenca <br/></h2> 
 <br> <br>
-  <a href="https://github.com/IsratIJK" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/IsratIJK?label=Github%20followers&style=for-the-badge">
+  <p> I'm a computer engineering student. I have experience in both back-end and front-end development. I'm passionate about constantly learning and taking on new challenges that allow me to grow professionally and technically. My goal is to continue improving as a developer and add value to the projects I work on. </p>
   </a> <br> <br>
   <a href="https://github.com/IsratIJK" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=IsratIJK&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
