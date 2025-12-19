@@ -40,7 +40,7 @@ Dashboards, reports, stock control, loyalty systems and automation.
 
 
 </span>
-<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,mongodb,git,nginx" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,mongodb,git,nginx,typescript,reactnative" />
 
 <h4> Other Tools and Technologies </h4>
 <span>
