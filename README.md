@@ -4,6 +4,21 @@
 <p>I build real-world web applications focused on performance, UX and scalable architecture.  
 Currently developing SaaS products, internal systems and automation tools for real businesses.</p>
 
+<p>## 💡 What I Do
+
+🧩 **Build complete web applications**  
+From idea to production: frontend, backend, database and deployment.
+
+⚡ **Focus on performance & UX**  
+Fast load times, mobile-first design and intuitive user flows.
+
+🔐 **Authentication & Security**  
+JWT, cookies, role-based access and protected routes.
+
+📊 **Business-oriented systems**  
+Dashboards, reports, stock control, loyalty systems and automation.
+</p>
+
 ## My Skills Include
 
 <h4> Languages </h4>
