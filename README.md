@@ -19,6 +19,13 @@ JWT, cookies, role-based access and protected routes.
 Dashboards, reports, stock control, loyalty systems and automation.
 </p>
 
+<h4> ## 🧠 How I Work </h4>
+<p>
+  - I analyze real business needs before writing code
+- I prioritize maintainability over quick hacks
+- I design systems thinking about future growth
+- I communicate clearly with non-technical stakeholders</p>
+
 ## My Skills Include
 
 <h4> Languages </h4>
