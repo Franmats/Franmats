@@ -1,6 +1,8 @@
 <h1 align="center"><b>Hi , I'm Franco Cuenca </b></h1>
+<h1 align="center"><b>Full-Stack Developer | React • Node.js • PostgreSQL  </b></h1>
 
-<p>I'm a computer engineering student. I have experience in both back-end and front-end development. I'm passionate about constantly learning and taking on new challenges that allow me to grow professionally and technically. My goal is to continue improving as a developer and add value to the projects I work on.</p>
+<p>I build real-world web applications focused on performance, UX and scalable architecture.  
+Currently developing SaaS products, internal systems and automation tools for real businesses.</p>
 
 ## My Skills Include
 
