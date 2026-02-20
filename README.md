@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hola, soy Franco Cuenca</b></h1>
-<h1 align="center"><b>Desarrollador Full-Stack | React • Node.js • PostgreSQL</b></h1>
+<h1 align="center"><b>Desarrollador Full-Stack | React • Typescript • PostgreSQL</b></h1>
 
 <p>Construyo aplicaciones web reales enfocadas en rendimiento, experiencia de usuario y arquitectura escalable.  
 Actualmente desarrollo productos SaaS, sistemas internos y herramientas de automatización para negocios reales.</p>
