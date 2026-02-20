@@ -1,30 +1,33 @@
-<h1 align="center"><b>Hi , I'm Franco Cuenca </b></h1>
-<h1 align="center"><b>Full-Stack Developer | React • Node.js • PostgreSQL  </b></h1>
+<h1 align="center"><b>Hola, soy Franco Cuenca</b></h1>
+<h1 align="center"><b>Desarrollador Full-Stack | React • Node.js • PostgreSQL</b></h1>
 
-<p>I build real-world web applications focused on performance, UX and scalable architecture.  
-Currently developing SaaS products, internal systems and automation tools for real businesses.</p>
+<p>Construyo aplicaciones web reales enfocadas en rendimiento, experiencia de usuario y arquitectura escalable.  
+Actualmente desarrollo productos SaaS, sistemas internos y herramientas de automatización para negocios reales.</p>
 
-<p>## 💡 What I Do
+<p>## 💡 Lo que hago
 
-🧩 **Build complete web applications**  
-From idea to production: frontend, backend, database and deployment.
+🧩 **Desarrollo aplicaciones web completas**
+Desde la idea hasta producción: frontend, backend, base de datos y despliegue.
 
-⚡ **Focus on performance & UX**  
-Fast load times, mobile-first design and intuitive user flows.
+⚡ **Enfoque en rendimiento y experiencia de usuario**
+Tiempos de carga rápidos, diseño mobile-first y flujos intuitivos.
 
-🔐 **Authentication & Security**  
-JWT, cookies, role-based access and protected routes.
+🔐 **Autenticación y seguridad**
+JWT, cookies, control de acceso por roles y rutas protegidas.
 
-📊 **Business-oriented systems**  
-Dashboards, reports, stock control, loyalty systems and automation.
+📊 **Sistemas orientados a negocios**
+Dashboards, reportes, control de stock, sistemas de fidelización y automatización.
+
 </p>
 
-<h4> ## 🧠 How I Work </h4>
+<h4>## 🧠 Cómo trabajo</h4>
 <p>
-  - I analyze real business needs before writing code
-- I prioritize maintainability over quick hacks
-- I design systems thinking about future growth
-- I communicate clearly with non-technical stakeholders</p>
+- Analizo las necesidades reales del negocio antes de escribir código.  
+- Prioritizo la mantenibilidad sobre soluciones rápidas y poco escalables.  
+- Diseño sistemas pensando en el crecimiento futuro.  
+- Me comunico con claridad con personas no técnicas.
+</p>
+
 
 ## My Skills Include
 
